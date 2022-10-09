@@ -1,4 +1,4 @@
-<h3>Project Name: NATOURS</h3>
+<h3>Project Name: Natours</h3>
 <p>This is my first responsive project and is used to Book Exciting Tour for Travel with listed price.</p>
  
 <h3>Tech Stack Used :-</h3>
