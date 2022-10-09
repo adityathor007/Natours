@@ -7,6 +7,7 @@
 <li>CSS</li>
 <li>FLEX-BOX</li>
 <li>MEDIA-QUERY</li>
+ <li>SASS</li>
 </ul>
 
 <h3>Features Implemented</h3>
